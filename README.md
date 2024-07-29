@@ -9,5 +9,9 @@ This Git repository contains the code we wrote in order to generate and conduct 
 
 Our code uses the SageMath 9.4 kernel and the Python library NetworkX. It includes functions for constructing gcd-graphs and finding cycles on them. 
 
+## License
+
+This project is licensed under the MIT License. 
+
 
 
