@@ -3,7 +3,7 @@
 
 This Git repository contains the code we wrote in order to generate and conduct experiments with gcd-graphs over function fields, as discussed in our paper:
 
-**[1]** Ján Mináč, Duy Tan Nguyen, Tung T. Nguyen, *On the gcd graphs over the polynomial ring and related topics* (preprint, 2024).
+**[1]** Ján Mináč, Tung T. Nguyen, Nguyen Duy Tan  *On the gcd graphs over the polynomial ring and related topics* (preprint, 2024).
 
 ## Description
 
