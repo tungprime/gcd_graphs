@@ -1,1 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Nguyen
+    given-names: Tung
 
+title: "Gcd-graphs over function fields"
+
+date-released: 2024-07
